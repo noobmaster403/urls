@@ -23,8 +23,7 @@ http://sristi1.livebox.co.in/sristihls/live.m3u8
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1  tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Bollywood-Hungama_TV_black.png",BOLLYWOOD HUNGAMA
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/c4d9a1fa-c692-41c3-a5e4-ab69ac3b7445/1.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxq1tR5fUwH6My7iFzvhEn1PKVKrWlngrSxWq0SAer8Q&s",DESI PLAY
-https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-240962/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCSVARlJavblhZBh5m50j7zdeQxN9WRzXJ5FdWeHH6A&s",KIDS TV INDIA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_afxZn_p2R8t_9apbVS-TDrPjDQucGF9ZH52oXqLg&s",FILMY GAANE
@@ -67,8 +66,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCl6bDJ2-ubfxwEGGJovwS4JfHdiLQSV-pBKPHxIDQw&s",DABANGG
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/40bac9c0-3221-4268-a381-b76510dece6b/0.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqoWA5s4a1VZjR2NCQOYFQGJ2Toiw0JnlPxW2d7vdpA&s",HAR PAL GEO
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ckzgEsp55mJa89TMCgFl7yuozbz7vK3__soouq5qhLnXG3C-0K0b4xkv&s=10",ANJAN TV HINDI
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHLZBIUHdEt5w3vIIY9oW2HL_CSzpb6q03_GNU8SsR&s",SANGEET BHOJPURI
@@ -126,8 +124,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/164eb222-0c4f-4518-ac47-5be6556c7b6f_180x180_TV9Bangla.jpg",TV9 BANGLA
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfCz1xOUxuUTrlgQgfKAHCvL9xE2w6iItKccMA2KYJOg&s",DBC NEWS
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png",EKUSHEY TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",ABP ANANDA
@@ -136,8 +133,7 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcs6xXJN57Lasqi8jOr194fZLaxKR2tFkWr1zgDIukw&s",ENTERR 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCsNyGU501eukQ-DBLboZR_1541NMO_7doLucmLcfAQ&s",RTV
-https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqfwu6Zumw0c1UT9zPSmkNIihwfI4e0QykbjWqVYprGA&s",NANDAN TV HD
 https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",COLORS BANGLA HD
